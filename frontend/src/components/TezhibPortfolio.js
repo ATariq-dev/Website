@@ -672,7 +672,7 @@ const TezhibPortfolio = () => {
             >
               <img
                 src={selectedImage}
-                alt="Artwork detail"
+                alt="Kunstwerk Detail"
                 className="w-full h-full object-contain rounded-lg"
               />
               <button
