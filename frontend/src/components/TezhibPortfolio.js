@@ -304,7 +304,7 @@ const TezhibPortfolio = () => {
             >
               <img
                 src="https://images.unsplash.com/photo-1614247262122-cf8f4643541f"
-                alt="Artist at work"
+                alt="Künstlerin bei der Arbeit"
                 className="rounded-2xl shadow-2xl w-full h-96 object-cover"
               />
             </motion.div>
