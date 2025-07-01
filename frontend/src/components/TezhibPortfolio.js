@@ -123,9 +123,9 @@ const TezhibPortfolio = () => {
   const handleFormSubmit = (e) => {
     e.preventDefault();
     // Handle form submission
-    console.log('Form submitted:', formData);
-    alert('Thank you for your message! I will get back to you soon.');
-    setFormData({ name: '', email: '', message: '', type: 'inquiry' });
+    console.log('Formular übermittelt:', formData);
+    alert('Vielen Dank für Ihre Nachricht! Ich werde mich bald bei Ihnen melden.');
+    setFormData({ name: '', email: '', message: '', type: 'anfrage' });
   };
 
   const fadeInUp = {
