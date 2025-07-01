@@ -601,7 +601,7 @@ const TezhibPortfolio = () => {
 
               <div className="bg-gradient-ottoman rounded-2xl shadow-xl p-8 text-white">
                 <h3 className="font-elegant text-2xl font-semibold mb-6">
-                  Follow My Work
+                  Folgen Sie meiner Arbeit
                 </h3>
                 <div className="flex space-x-4">
                   <a href="#" className="bg-white/20 hover:bg-white/30 p-3 rounded-lg transition-colors duration-300">
@@ -615,7 +615,7 @@ const TezhibPortfolio = () => {
                   </a>
                 </div>
                 <p className="mt-6 opacity-90">
-                  Stay updated with my latest artworks and exhibitions. Join a community of art enthusiasts who appreciate the beauty of traditional Islamic art.
+                  Bleiben Sie über meine neuesten Kunstwerke und Ausstellungen auf dem Laufenden. Werden Sie Teil einer Gemeinschaft von Kunstliebhabern, die die Schönheit traditioneller islamischer Kunst schätzen.
                 </p>
               </div>
             </motion.div>
