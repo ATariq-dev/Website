@@ -317,31 +317,31 @@ const TezhibPortfolio = () => {
               className="space-y-6"
             >
               <h3 className="font-elegant text-3xl font-semibold text-ottoman-deep-blue">
-                Preserving Ancient Traditions
+                Bewahrung alter Traditionen
               </h3>
               <p className="text-lg text-gray-700 leading-relaxed">
-                With over 15 years of dedication to the art of Tezhib, I specialize in creating 
-                authentic Ottoman-style illuminated manuscripts. My work combines traditional 
-                techniques passed down through generations with contemporary artistic vision.
+                Mit über 15 Jahren Hingabe zur Kunst des Tezhib spezialisiere ich mich auf die Schaffung 
+                authentischer osmanischer illuminierter Handschriften. Meine Arbeit verbindet traditionelle 
+                Techniken, die über Generationen weitergegeben wurden, mit zeitgenössischer künstlerischer Vision.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Each piece is meticulously crafted using genuine gold leaf, natural pigments, 
-                and time-honored methods. From Quranic verses to classical poetry, every 
-                manuscript tells a story of cultural heritage and artistic excellence.
+                Jedes Stück wird gewissenhaft mit echtem Goldblatt, natürlichen Pigmenten und 
+                bewährten Methoden gefertigt. Von Koranversen bis zur klassischen Poesie erzählt jedes 
+                Manuskript eine Geschichte des kulturellen Erbes und künstlerischer Exzellenz.
               </p>
               
               <div className="grid grid-cols-3 gap-6 pt-6">
                 <div className="text-center">
                   <div className="text-3xl font-bold text-ottoman-gold mb-2">15+</div>
-                  <div className="text-sm text-gray-600">Years Experience</div>
+                  <div className="text-sm text-gray-600">Jahre Erfahrung</div>
                 </div>
                 <div className="text-center">
                   <div className="text-3xl font-bold text-ottoman-gold mb-2">200+</div>
-                  <div className="text-sm text-gray-600">Artworks Created</div>
+                  <div className="text-sm text-gray-600">Kunstwerke erschaffen</div>
                 </div>
                 <div className="text-center">
                   <div className="text-3xl font-bold text-ottoman-gold mb-2">50+</div>
-                  <div className="text-sm text-gray-600">Happy Clients</div>
+                  <div className="text-sm text-gray-600">Zufriedene Kunden</div>
                 </div>
               </div>
             </motion.div>
