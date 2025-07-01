@@ -360,11 +360,11 @@ const TezhibPortfolio = () => {
             className="text-center mb-16"
           >
             <h2 className="font-elegant text-4xl md:text-5xl font-bold text-ottoman-deep-blue mb-6">
-              Gallery
+              Galerie
             </h2>
             <div className="w-24 h-1 bg-ottoman-gold mx-auto mb-8" />
             <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-              Explore my collection of illuminated manuscripts, geometric patterns, and calligraphic artworks
+              Entdecken Sie meine Sammlung illuminierter Handschriften, geometrischer Muster und kalligrafischer Kunstwerke
             </p>
           </motion.div>
 
