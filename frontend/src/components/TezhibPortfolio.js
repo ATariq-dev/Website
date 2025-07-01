@@ -403,7 +403,7 @@ const TezhibPortfolio = () => {
                       <div className="absolute inset-0 bg-ottoman-deep-blue/70 opacity-0 group-hover:opacity-100 transition-all duration-300 rounded-xl flex items-center justify-center">
                         <div className="text-center text-white">
                           <Eye size={40} className="mx-auto mb-2" />
-                          <p className="text-sm font-medium">Click to view</p>
+                          <p className="text-sm font-medium">Klicken zum Anzeigen</p>
                         </div>
                       </div>
                     </motion.div>
