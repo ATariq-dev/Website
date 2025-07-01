@@ -61,8 +61,8 @@ const TezhibPortfolio = () => {
   const artworkCategories = [
     {
       id: 'manuscripts',
-      title: 'Illuminated Manuscripts',
-      description: 'Traditional Quranic and literary manuscripts with intricate gold leaf illumination',
+      title: 'Illuminierte Handschriften',
+      description: 'Traditionelle Koran- und Literaturhandschriften mit kunstvoller Goldblatt-Illumination',
       images: [
         'https://images.unsplash.com/photo-1720701575003-51dafcf39cb4',
         'https://images.unsplash.com/photo-1720700955633-63e99df2a092',
@@ -71,8 +71,8 @@ const TezhibPortfolio = () => {
     },
     {
       id: 'geometric',
-      title: 'Geometric Patterns',
-      description: 'Complex geometric designs following traditional Islamic artistic principles',
+      title: 'Geometrische Muster',
+      description: 'Komplexe geometrische Designs nach traditionellen islamischen Kunstprinzipien',
       images: [
         'https://images.pexels.com/photos/32369474/pexels-photo-32369474.jpeg',
         'https://images.pexels.com/photos/29061067/pexels-photo-29061067.jpeg',
@@ -81,8 +81,8 @@ const TezhibPortfolio = () => {
     },
     {
       id: 'calligraphy',
-      title: 'Calligraphic Arts',
-      description: 'Beautiful Arabic and Ottoman Turkish calligraphy with decorative elements',
+      title: 'Kalligrafische Kunst',
+      description: 'Wunderschöne arabische und osmanisch-türkische Kalligrafie mit dekorativen Elementen',
       images: [
         'https://images.pexels.com/photos/6207365/pexels-photo-6207365.jpeg',
         'https://images.pexels.com/photos/9524087/pexels-photo-9524087.jpeg',
