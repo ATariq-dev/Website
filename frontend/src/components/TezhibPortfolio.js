@@ -290,7 +290,7 @@ const TezhibPortfolio = () => {
             className="text-center mb-16"
           >
             <h2 className="font-elegant text-4xl md:text-5xl font-bold text-ottoman-deep-blue mb-6">
-              About the Artist
+              Über die Künstlerin
             </h2>
             <div className="w-24 h-1 bg-ottoman-gold mx-auto mb-8" />
           </motion.div>
