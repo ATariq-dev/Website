@@ -51,11 +51,11 @@ const TezhibPortfolio = () => {
   }, [homeInView, aboutInView, galleryInView, processInView, contactInView]);
 
   const navItems = [
-    { id: 'home', label: 'Home', icon: Home },
-    { id: 'about', label: 'About', icon: User },
-    { id: 'gallery', label: 'Gallery', icon: ImageIcon },
-    { id: 'process', label: 'Process', icon: Info },
-    { id: 'contact', label: 'Contact', icon: MessageCircle },
+    { id: 'home', label: 'Startseite', icon: Home },
+    { id: 'about', label: 'Über mich', icon: User },
+    { id: 'gallery', label: 'Galerie', icon: ImageIcon },
+    { id: 'process', label: 'Prozess', icon: Info },
+    { id: 'contact', label: 'Kontakt', icon: MessageCircle },
   ];
 
   const artworkCategories = [
