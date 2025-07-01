@@ -93,20 +93,20 @@ const TezhibPortfolio = () => {
 
   const processSteps = [
     {
-      title: 'Design & Planning',
-      description: 'Careful study of traditional patterns and creation of detailed sketches',
+      title: 'Design & Planung',
+      description: 'Sorgfältiges Studium traditioneller Muster und Erstellung detaillierter Skizzen',
       icon: Palette,
       image: 'https://images.unsplash.com/photo-1614247262122-cf8f4643541f'
     },
     {
-      title: 'Preparation',
-      description: 'Preparing the manuscript paper and mixing traditional pigments',
+      title: 'Vorbereitung',
+      description: 'Vorbereitung des Manuskriptpapiers und Mischen traditioneller Pigmente',
       icon: Scroll,
       image: 'https://images.pexels.com/photos/9524087/pexels-photo-9524087.jpeg'
     },
     {
-      title: 'Gold Leaf Application',
-      description: 'Meticulous application of gold leaf using traditional techniques',
+      title: 'Goldblatt-Anwendung',
+      description: 'Gewissenhafte Anwendung von Goldblatt mit traditionellen Techniken',
       icon: Brush,
       image: 'https://images.pexels.com/photos/6207365/pexels-photo-6207365.jpeg'
     }
