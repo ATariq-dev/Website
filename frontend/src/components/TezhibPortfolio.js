@@ -242,12 +242,12 @@ const TezhibPortfolio = () => {
             transition={{ duration: 0.8 }}
           >
             <h1 className="font-elegant text-5xl md:text-7xl font-bold mb-6 leading-tight">
-              The Art of
+              Die Kunst des
               <span className="text-ottoman-gold block">Tezhib</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 opacity-90 max-w-2xl mx-auto">
-              Preserving the ancient Ottoman tradition of illuminated manuscripts through 
-              intricate gold leaf artistry and timeless beauty
+              Bewahrung der alten osmanischen Tradition illuminierter Handschriften durch 
+              kunstvolle Goldblatt-Kunst und zeitlose Schönheit
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <motion.button
@@ -256,7 +256,7 @@ const TezhibPortfolio = () => {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                View Portfolio
+                Portfolio ansehen
               </motion.button>
               <motion.button
                 onClick={() => scrollToSection('contact')}
@@ -264,7 +264,7 @@ const TezhibPortfolio = () => {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                Commission Work
+                Auftrag erteilen
               </motion.button>
             </div>
           </motion.div>
