@@ -628,10 +628,10 @@ const TezhibPortfolio = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <div className="font-elegant text-3xl font-bold mb-4 text-ottoman-gold">
-              Tezhib Artist
+              Tezhib Künstlerin
             </div>
             <p className="text-ottoman-cream/80 mb-6">
-              Preserving the ancient art of Ottoman illumination for future generations
+              Bewahrung der alten Kunst der osmanischen Illumination für zukünftige Generationen
             </p>
             <div className="flex justify-center space-x-6 mb-8">
               <a href="#" className="text-ottoman-cream/60 hover:text-ottoman-gold transition-colors duration-300">
@@ -646,7 +646,7 @@ const TezhibPortfolio = () => {
             </div>
             <div className="border-t border-ottoman-gold/20 pt-8">
               <p className="text-ottoman-cream/60">
-                © 2025 Tezhib Artist. All rights reserved.
+                © 2025 Tezhib Künstlerin. Alle Rechte vorbehalten.
               </p>
             </div>
           </div>
