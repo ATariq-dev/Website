@@ -480,11 +480,11 @@ const TezhibPortfolio = () => {
             className="text-center mb-16"
           >
             <h2 className="font-elegant text-4xl md:text-5xl font-bold text-ottoman-deep-blue mb-6">
-              Get In Touch
+              Kontakt aufnehmen
             </h2>
             <div className="w-24 h-1 bg-ottoman-gold mx-auto mb-8" />
             <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-              Interested in commissioning a piece or learning more about Tezhib art? I'd love to hear from you.
+              Interesse an der Beauftragung eines Werkes oder möchten Sie mehr über die Tezhib-Kunst erfahren? Ich freue mich auf Ihre Nachricht.
             </p>
           </motion.div>
 
