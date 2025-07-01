@@ -498,7 +498,7 @@ const TezhibPortfolio = () => {
               className="bg-white rounded-2xl shadow-xl p-8"
             >
               <h3 className="font-elegant text-2xl font-semibold text-ottoman-deep-blue mb-6">
-                Send a Message
+                Nachricht senden
               </h3>
               <form onSubmit={handleFormSubmit} className="space-y-6">
                 <div>
@@ -512,7 +512,7 @@ const TezhibPortfolio = () => {
                   />
                 </div>
                 <div>
-                  <label className="block text-gray-700 font-medium mb-2">Email</label>
+                  <label className="block text-gray-700 font-medium mb-2">E-Mail</label>
                   <input
                     type="email"
                     value={formData.email}
@@ -522,20 +522,20 @@ const TezhibPortfolio = () => {
                   />
                 </div>
                 <div>
-                  <label className="block text-gray-700 font-medium mb-2">Type of Inquiry</label>
+                  <label className="block text-gray-700 font-medium mb-2">Art der Anfrage</label>
                   <select
                     value={formData.type}
                     onChange={(e) => setFormData({...formData, type: e.target.value})}
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-ottoman-gold focus:border-transparent"
                   >
-                    <option value="inquiry">General Inquiry</option>
-                    <option value="commission">Commission Request</option>
-                    <option value="workshop">Workshop Information</option>
-                    <option value="collaboration">Collaboration</option>
+                    <option value="anfrage">Allgemeine Anfrage</option>
+                    <option value="auftrag">Auftragsanfrage</option>
+                    <option value="workshop">Workshop-Informationen</option>
+                    <option value="zusammenarbeit">Zusammenarbeit</option>
                   </select>
                 </div>
                 <div>
-                  <label className="block text-gray-700 font-medium mb-2">Message</label>
+                  <label className="block text-gray-700 font-medium mb-2">Nachricht</label>
                   <textarea
                     value={formData.message}
                     onChange={(e) => setFormData({...formData, message: e.target.value})}
@@ -551,7 +551,7 @@ const TezhibPortfolio = () => {
                   whileTap={{ scale: 0.98 }}
                 >
                   <Send size={20} />
-                  <span>Send Message</span>
+                  <span>Nachricht senden</span>
                 </motion.button>
               </form>
             </motion.div>
