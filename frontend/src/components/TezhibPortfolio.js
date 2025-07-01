@@ -426,11 +426,11 @@ const TezhibPortfolio = () => {
             className="text-center mb-16"
           >
             <h2 className="font-elegant text-4xl md:text-5xl font-bold text-ottoman-deep-blue mb-6">
-              The Creative Process
+              Der kreative Prozess
             </h2>
             <div className="w-24 h-1 bg-ottoman-gold mx-auto mb-8" />
             <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-              Each artwork is created through a meticulous process that honors traditional techniques
+              Jedes Kunstwerk entsteht durch einen gewissenhaften Prozess, der traditionelle Techniken ehrt
             </p>
           </motion.div>
 
