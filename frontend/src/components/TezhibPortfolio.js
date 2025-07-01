@@ -566,7 +566,7 @@ const TezhibPortfolio = () => {
             >
               <div className="bg-white rounded-2xl shadow-xl p-8">
                 <h3 className="font-elegant text-2xl font-semibold text-ottoman-deep-blue mb-6">
-                  Contact Information
+                  Kontaktinformationen
                 </h3>
                 <div className="space-y-4">
                   <div className="flex items-center space-x-4">
@@ -574,8 +574,8 @@ const TezhibPortfolio = () => {
                       <Mail className="text-ottoman-gold" size={20} />
                     </div>
                     <div>
-                      <div className="font-medium text-gray-900">Email</div>
-                      <div className="text-gray-600">tezhib.artist@example.com</div>
+                      <div className="font-medium text-gray-900">E-Mail</div>
+                      <div className="text-gray-600">tezhib.künstlerin@example.com</div>
                     </div>
                   </div>
                   <div className="flex items-center space-x-4">
@@ -583,8 +583,8 @@ const TezhibPortfolio = () => {
                       <Phone className="text-ottoman-gold" size={20} />
                     </div>
                     <div>
-                      <div className="font-medium text-gray-900">Phone</div>
-                      <div className="text-gray-600">+1 (555) 123-4567</div>
+                      <div className="font-medium text-gray-900">Telefon</div>
+                      <div className="text-gray-600">+49 (0)30 123-4567</div>
                     </div>
                   </div>
                   <div className="flex items-center space-x-4">
@@ -592,8 +592,8 @@ const TezhibPortfolio = () => {
                       <MapPin className="text-ottoman-gold" size={20} />
                     </div>
                     <div>
-                      <div className="font-medium text-gray-900">Studio</div>
-                      <div className="text-gray-600">New York, NY</div>
+                      <div className="font-medium text-gray-900">Atelier</div>
+                      <div className="text-gray-600">Berlin, Deutschland</div>
                     </div>
                   </div>
                 </div>
